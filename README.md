@@ -54,7 +54,7 @@ You can find more usage examples in the [example](example) folder of this reposi
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://zaid.digital).
 
 ## Contributing
 
@@ -70,5 +70,5 @@ If you have any questions, feel free to reach out:
 
 - Email: ashrafchauhan567@gmail.com
 - Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
-```
+
 
