@@ -1,6 +1,5 @@
 
 
-```markdown
 # Gradient Icon
 
 [![Pub Version](https://img.shields.io/pub/v/gradient_icon.svg)](https://pub.dev/packages/gradient_icon)
@@ -69,7 +68,7 @@ This package was inspired by the need for gradient icons in Flutter and aims to 
 
 If you have any questions, feel free to reach out:
 
-- Email: your-email@example.com
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- Email: ashrafchauhan567@gmail.com
+- Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
 ```
 
