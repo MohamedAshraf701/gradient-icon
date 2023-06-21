@@ -1,6 +1,6 @@
 name: gradient_icon
 description: A Flutter package for creating gradient icons.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/MohamedAshraf701/gradientcolor
 
 environment:

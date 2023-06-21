@@ -19,7 +19,7 @@ Add the following line to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  gradient_icon: ^1.0.0
+  gradient_icon: ^0.0.3
 ```
 
 Then run `flutter pub get` to fetch the package.
