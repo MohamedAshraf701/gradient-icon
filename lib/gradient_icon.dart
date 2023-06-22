@@ -1,12 +1,37 @@
+/// A Flutter library for creating gradient icons.
+///
+/// The `gradient_icon` library provides a `GradientIcon` widget that allows you to display icons with a gradient effect.
+/// It utilizes the `CustomPaint` widget to paint the icon with a gradient shader, providing a visually appealing representation.
+///
+/// Usage:
+/// 1. Import the `gradient_icon` library.
+/// 2. Use the `GradientIcon` widget by providing the `icon`, `gradient`, and optionally the `size` parameters.
+///    - `icon`: The IconData representing the desired icon.
+///    - `gradient`: The Gradient object defining the gradient colors and stops.
+///    - `size`: The size of the icon (default is 25).
+/// 3. Embed the `GradientIcon` widget within your UI to display the gradient icon.
+///
+/// Note: This library requires the `flutter` package.
 library gradient_icon;
 
 import 'package:flutter/material.dart';
 
+/// A widget for displaying icons with a gradient effect.
+///
+/// The `GradientIcon` widget paints the provided `icon` with a `gradient` shader,
+/// creating a gradient effect on the icon. The `size` parameter determines the
+/// size of the icon widget.
 class GradientIcon extends StatelessWidget {
   final IconData icon;
   final Gradient gradient;
   final double size;
 
+  /// Constructs a new `GradientIcon` widget.
+  ///
+  /// - `icon`: The IconData representing the desired icon.
+  /// - `gradient`: The Gradient object defining the gradient colors and stops.
+  /// - `size`: The size of the icon (default is 25).
+  /// - `key`: An optional key to identify this widget.
   const GradientIcon({
     required this.icon,
     required this.gradient,
@@ -30,11 +55,21 @@ class GradientIcon extends StatelessWidget {
   }
 }
 
+/// The painter class responsible for painting the icon with the gradient shader.
+///
+/// The `_GradientIconPainter` class extends the `CustomPainter` class and is used
+/// by the `GradientIcon` widget to paint the provided `icon` with a `gradient` shader.
 class _GradientIconPainter extends CustomPainter {
   final IconData? icon;
   final Gradient? gradient;
   final double? iconSize;
 
+  /// Constructs a new `_GradientIconPainter` object.
+  ///
+  /// - `repaint`: An optional listenable object for repainting.
+  /// - `icon`: The IconData representing the desired icon.
+  /// - `gradient`: The Gradient object defining the gradient colors and stops.
+  /// - `iconSize`: The size of the icon.
   _GradientIconPainter({
     Listenable? repaint,
     required this.icon,
