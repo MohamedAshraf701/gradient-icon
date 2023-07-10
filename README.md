@@ -75,6 +75,7 @@ If you have any questions, feel free to reach out:
 - Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
 
   
- ## Collaborators
-![Kishan - Ck](https://avatars.githubusercontent.com/u/85216147?v=4)
+## Collaborators
+
+<img src="https://avatars.githubusercontent.com/u/85216147?v=4" alt="Collaborator" width="100" height="100" style="border-radius: 50%;">
 
