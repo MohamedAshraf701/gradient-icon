@@ -77,5 +77,5 @@ If you have any questions, feel free to reach out:
   
  ## Collaborators
 
-[![Kishan](https://img.shields.io/badge/-Collaborator%20Name-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/kishan-ck)](https://github.com/kishan-ck)
+[![Kishan](https://img.shields.io/badge/-kishan-ck-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/kishan-ck)](https://github.com/kishan-ck)
 
