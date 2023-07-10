@@ -76,5 +76,5 @@ If you have any questions, feel free to reach out:
 
   
  ## Collaborators
-[Kishan-ck](https://avatars.githubusercontent.com/u/85216147?v=4)
+![Kishan - Ck](https://avatars.githubusercontent.com/u/85216147?v=4)
 
