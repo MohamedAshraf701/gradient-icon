@@ -77,5 +77,7 @@ If you have any questions, feel free to reach out:
   
 ## Collaborators
 
-<img src="https://avatars.githubusercontent.com/u/85216147?v=4" alt="Collaborator" width="80" height="80" style="border-radius:80;">
+<a href="https://github.com/MohamedAshraf701/gradientcolor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MohamedAshraf701/gradientcolor" />
+</a>
 
