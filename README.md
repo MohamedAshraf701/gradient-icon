@@ -75,7 +75,7 @@ If you have any questions, feel free to reach out:
 - Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
 
   
-## Collaborators
+## Contributors
 
 <a href="https://github.com/MohamedAshraf701/gradientcolor/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MohamedAshraf701/gradientcolor" />
