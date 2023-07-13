@@ -78,8 +78,6 @@ If you have any questions, feel free to reach out:
 ## Contributors
 
 <a href="https://github.com/MohamedAshraf701/gradientcolor/graphs/contributors">
-
     <img src="https://contrib.rocks/image?repo=zaid-digital/gradientcolor" />
-
 </a>
 
