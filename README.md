@@ -69,7 +69,7 @@ This package was inspired by the need for gradient icons in Flutter and aims to 
 
 ## Get in touch
 
-If you have any questions, feel free to reach out:-
+If you have any questions, feel free to reach out:
 
 - Email: ashrafchauhan567@gmail.com
 - Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
@@ -79,5 +79,7 @@ If you have any questions, feel free to reach out:-
 
 <a href="https://github.com/MohamedAshraf701/gradientcolor/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MohamedAshraf701/gradientcolor" />
+    <img src="https://contrib.rocks/image?repo=zaid-digital/gradientcolor" />
+
 </a>
 
