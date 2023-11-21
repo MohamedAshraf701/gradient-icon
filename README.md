@@ -14,8 +14,7 @@
 
 A Flutter package that provides gradient icons, allowing you to apply gradient effects to your icons.
 
-![Gradient Icons](https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/2f20df2b-2ccd-4cb5-b26c-b82fa79e22b3)
-
+<img src="https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/2f20df2b-2ccd-4cb5-b26c-b82fa79e22b3" alt="Gradient Icons" width="300">
 
 ## Features
 
@@ -68,11 +67,11 @@ You can find more usage examples in the [example](example) folder of this reposi
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/MohamedAshraf701/gradient_icon/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/MohamedAshraf701/gradient-icon/blob/main/LICENSE).
 
 ## Changelog
 
-See the [CHANGELOG](https://github.com/MohamedAshraf701/gradient_icon/blob/main/CHANGELOG.md) for a history of changes in the package.
+See the [CHANGELOG](https://github.com/MohamedAshraf701/gradient-icon/blob/main/CHANGELOG.md) for a history of changes in the package.
 
 ---
 
@@ -98,3 +97,9 @@ If you have any questions, feel free to reach out:
 - Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
 
 
+---
+
+# Support
+<p><a href="https://www.buymeacoffee.com/ashraf704"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashraf704" /></a></p><br><br>
+
+---
