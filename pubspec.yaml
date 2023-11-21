@@ -20,6 +20,11 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
+screenshots:
+  - description: The gradient_icon package logo.
+    path: screenshots/logo.png
+
+    
 flutter:
 
   # To add assets to your package, add an assets section, like this:
