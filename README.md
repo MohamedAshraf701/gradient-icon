@@ -16,6 +16,8 @@ A Flutter package that provides gradient icons, allowing you to apply gradient e
 
 ![Gradient Icons](https://github.com/MohamedAshraf701/gradientcolor/assets/92545354/a7584ded-db99-473c-b91a-22465c89b753)
 
+![Gradient Icons](https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/2f20df2b-2ccd-4cb5-b26c-b82fa79e22b3)
+
 
 ## Features
 
