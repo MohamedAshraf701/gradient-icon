@@ -14,8 +14,6 @@
 
 A Flutter package that provides gradient icons, allowing you to apply gradient effects to your icons.
 
-![Gradient Icons](https://github.com/MohamedAshraf701/gradientcolor/assets/92545354/a7584ded-db99-473c-b91a-22465c89b753)
-
 ![Gradient Icons](https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/2f20df2b-2ccd-4cb5-b26c-b82fa79e22b3)
 
 
@@ -58,7 +56,11 @@ GradientIcon(
 ),
 ```
 
-For more advanced usage and customization options, refer to the package's [API documentation](https://pub.dev/documentation/gradient_icon/latest/gradient_icon/GradientIcon-class.html).
+## Documentation
+
+For detailed usage instructions and API documentation, please refer to the [documentation](https://pub.dev/documentation/gradient_icon/latest/).
+
+---
 
 ## Examples
 
@@ -66,11 +68,23 @@ You can find more usage examples in the [example](example) folder of this reposi
 
 ## License
 
-This project is licensed under the [MIT License](https://zaid.digital).
+This project is licensed under the [MIT License](https://github.com/MohamedAshraf701/gradient_icon/blob/main/LICENSE).
+
+## Changelog
+
+See the [CHANGELOG](https://github.com/MohamedAshraf701/gradient_icon/blob/main/CHANGELOG.md) for a history of changes in the package.
+
+---
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## Contributing
+
+Contributions to the `gradient_icon` package are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+
+---
 
 ## Acknowledgements
 
