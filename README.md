@@ -79,5 +79,3 @@ If you have any questions, feel free to reach out:
 
 # Support
 <p><a href="https://www.buymeacoffee.com/ashraf704"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashraf704" /></a></p><br><br>
-
----
