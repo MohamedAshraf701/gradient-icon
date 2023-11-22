@@ -1,3 +1,8 @@
+# Gradient Icon
+
+[![Pub Version](https://img.shields.io/pub/v/gradient_icon.svg)](https://pub.dev/packages/gradient_icon)
+![Flutter Platform](https://img.shields.io/badge/platform-flutter-yellow)
+
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
@@ -6,11 +11,6 @@
     </picture>
   </h1>
 </a>
-
-# Gradient Icon
-
-[![Pub Version](https://img.shields.io/pub/v/gradient_icon.svg)](https://pub.dev/packages/gradient_icon)
-![Flutter Platform](https://img.shields.io/badge/platform-flutter-yellow)
 
 A Flutter package that provides gradient icons, allowing you to apply gradient effects to your icons.
 
@@ -59,8 +59,6 @@ GradientIcon(
 
 For detailed usage instructions and API documentation, please refer to the [documentation](https://pub.dev/documentation/gradient_icon/latest/).
 
----
-
 ## Examples
 
 You can find more usage examples in the [example](example) folder of this repository.
@@ -73,17 +71,9 @@ This project is licensed under the [MIT License](https://github.com/MohamedAshra
 
 See the [CHANGELOG](https://github.com/MohamedAshraf701/gradient-icon/blob/main/CHANGELOG.md) for a history of changes in the package.
 
----
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
 ## Contributing
 
 Contributions to the `gradient_icon` package are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
----
 
 ## Acknowledgements
 
@@ -95,9 +85,6 @@ If you have any questions, feel free to reach out:
 
 - Email: ashrafchauhan567@gmail.com
 - Githube: [@MohamedAshraf701](https://github.com/MohamedAshraf701)
-
-
----
 
 # Support
 <p><a href="https://www.buymeacoffee.com/ashraf704"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashraf704" /></a></p><br><br>
