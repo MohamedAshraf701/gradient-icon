@@ -4,7 +4,7 @@
 ![Flutter Platform](https://img.shields.io/badge/platform-flutter-yellow)
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/7d610e49-a682-4748-9913-ce8211e88993" alt="Gradient Icons">
+  <img style="display: flex; align-self: center;" src="https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/7d610e49-a682-4748-9913-ce8211e88993" alt="Gradient Icons">
 </div>
 
 A Flutter package that provides gradient icons, allowing you to apply gradient effects to your icons.
