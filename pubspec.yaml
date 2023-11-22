@@ -1,9 +1,8 @@
 name: gradient_icon
-description: The Gradient Icon package is a powerful Flutter package that enables creating gradient icons effortlessly. It adds visual appeal to your app's UI by applying gradient effects to icons.
-version: 2.0.1
+description: The Gradient Icon package is a powerful Flutter package that enables creating gradient icons effortlessly.
+version: 2.0.7
 homepage: https://github.com/MohamedAshraf701/
 repository: https://github.com/MohamedAshraf701/gradient-icon.git
-documentation: https://pub.dev/documentation/gradient_icon/latest/
 topics : [ icon,gradient,ui-design,theming,visual-effects]
 
 environment:
@@ -25,10 +24,11 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 screenshots:
   - description: The gradient_icon package logo.
-    path: screenshots/logo.png
+    path: screenshots/icon.png
 
     
 flutter:
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
