@@ -3,14 +3,8 @@
 [![Pub Version](https://img.shields.io/pub/v/gradient_icon.svg)](https://pub.dev/packages/gradient_icon)
 ![Flutter Platform](https://img.shields.io/badge/platform-flutter-yellow)
 
-<a href="https://flutter.dev/">
-  <h1 align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
-      <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
-    </picture>
-  </h1>
-</a>
+<img src="https://github.com/MohamedAshraf701/gradient-icon/assets/92545354/7d610e49-a682-4748-9913-ce8211e88993"
+ alt="Gradient Icons" align=center>
 
 A Flutter package that provides gradient icons, allowing you to apply gradient effects to your icons.
 
