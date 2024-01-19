@@ -25,6 +25,7 @@ class GradientIcon extends StatelessWidget {
   final IconData icon;
   final Gradient gradient;
   final double size;
+  final Offset? offset;
 
   /// Constructs a new `GradientIcon` widget.
   ///
@@ -36,6 +37,7 @@ class GradientIcon extends StatelessWidget {
     required this.icon,
     required this.gradient,
     this.size = 25,
+    this.offset,
     Key? key,
   }) : super(key: key);
 
@@ -46,10 +48,7 @@ class GradientIcon extends StatelessWidget {
       child: CustomPaint(
         size: Size(size, size),
         painter: _GradientIconPainter(
-          icon: icon,
-          gradient: gradient,
-          iconSize: size,
-        ),
+            icon: icon, gradient: gradient, iconSize: size, offsets: offset),
       ),
     );
   }
@@ -63,6 +62,7 @@ class _GradientIconPainter extends CustomPainter {
   final IconData? icon;
   final Gradient? gradient;
   final double? iconSize;
+  final Offset? offsets;
 
   /// Constructs a new `_GradientIconPainter` object.
   ///
@@ -75,6 +75,7 @@ class _GradientIconPainter extends CustomPainter {
     required this.icon,
     required this.gradient,
     required this.iconSize,
+    this.offsets,
   }) : super(repaint: repaint);
 
   @override
@@ -108,7 +109,7 @@ class _GradientIconPainter extends CustomPainter {
     final yCenter = (size.height - textPainter.height) / 2;
 
     // Create an offset for the icon's position within the canvas
-    final offset = Offset(xCenter, yCenter + 8);
+    final offset = offsets ?? Offset(xCenter, yCenter + 8);
 
     // Paint the icon on the canvas at the specified offset
     textPainter.paint(canvas, offset);
