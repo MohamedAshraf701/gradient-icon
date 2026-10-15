@@ -95,6 +95,7 @@ class _GradientIconPainter extends CustomPainter {
           foreground:
               gradientShaderPaint, // Apply the gradient shader as the foreground color
           fontFamily: icon!.fontFamily, // Set the icon's font family
+          package: icon!.fontPackage, // Set the icon's font package
           fontSize: iconSize, // Set the icon's size
         ),
       ),
